@@ -3,7 +3,7 @@
 
 Java practice projects I come back to, when I need to refresh my memory.
 
-#### Stanford 193A
+#### [Stanford 193A](https://github.com/riedelsolutions/java/tree/master/Stanford%20193A)
 
 Code for apps seen in the Stanford 193A course.
 
