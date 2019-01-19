@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Stanford Number App</string>
+    <string name = "game_name">Stanford Number Game</string>
+    <string name = "initial_btn_value">0</string>
+    <string name = "points">Points: 0</string>
+</resources>
