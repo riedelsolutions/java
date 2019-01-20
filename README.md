@@ -1,7 +1,9 @@
 # Java Projects
 
 
-Old Java practice projects I come back to, when I need to refresh my memory.
+Old Java practice projects I come back to when I need to refresh my memory.
+
+I made these following different MOOCs and university courses back when I was first learning Java and Android development.
 
 #### [Stanford 193A](https://github.com/riedelsolutions/java/tree/master/Stanford%20193A)
 
